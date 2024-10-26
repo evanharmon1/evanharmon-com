@@ -9,6 +9,6 @@
     Cache-Control = "public, max-age=31536000, immutable"
 [[redirects]]
   from = "https://www.evanharmon.com/memex/*"
-  to = "https://publish.obsidian.md/serve?url=evanharmon.com/memex/:splat"
+  to = "https://publish.obsidian.md/serve?url=www.evanharmon.com/memex/:splat"
   status = 200
   force = true
