@@ -12,3 +12,7 @@
   to = "https://publish.obsidian.md/serve?url=www.evanharmon.com/memex/:splat"
   status = 200
   force = true
+  from = "https://www.evanharmon.com/testing123/*"
+  to = "https://www.google.com"
+  status = 200
+  force = true
